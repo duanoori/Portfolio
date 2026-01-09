@@ -39,6 +39,7 @@ portfolio/
 └─ README.md
 ```
 
+---
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/dua-noor-75624a345/
