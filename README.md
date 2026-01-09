@@ -1,6 +1,4 @@
-# John Doe - Frontend Developer Portfolio
-
-![Portfolio Screenshot](./files/Project3.png)  <!-- Replace with your screenshot path -->
+# Dua Noor - Frontend Developer Portfolio
 
 **Live Demo:** [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)  
 
@@ -40,3 +38,8 @@ portfolio/
 │  └─ Project3.png
 └─ README.md
 
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/dua-noor-75624a345/
+- GitHub: https://github.com/duanoori
+- Email: dua.noor1011@hotmail.com
