@@ -1,6 +1,6 @@
 # Dua Noor - Frontend Developer Portfolio
 
-**Live Demo:** [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)  
+**Live Demo:** [https://yourusername.github.io/portfolio](https://duanoorportfolio.netlify.app/)
 
 ---
 
